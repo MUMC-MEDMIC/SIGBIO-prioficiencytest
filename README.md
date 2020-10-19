@@ -4,3 +4,6 @@ this repo contains all template sheets that were used in the proficiency test fo
 Authors:
 Jordy Coolen (RadboudUMC)
 Casper Jamin (MUMC+)
+
+
+sheets available under MIT license
